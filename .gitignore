@@ -1,0 +1,17 @@
+# Daneel build + environment
+/target
+/.venv
+__pycache__/
+*.pyc
+
+# Rust
+Cargo.lock
+
+# Logs / Artifacts
+logs/
+*.log
+
+# Data / Ledger
+ledger/
+attestatio
+n/
